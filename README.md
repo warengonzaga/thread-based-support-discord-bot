@@ -90,9 +90,9 @@ Can't send love or coffees? 😥 Nominate me for a **[GitHub Star](https://stars
 
 ## 📝 Author
 
-The Thread-based Support Bot (thirdweb support) is developed and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/thirdweb-support-discord-bot/graphs/contributors) for the [thirdweb community](https://discord.gg/thirdweb).
+Thread-based Support Discord Bot is developed and maintained by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/thread-based-support-discord-bot/graphs/contributors).
 
-[![contributors](https://contrib.rocks/image?repo=warengonzaga/thirdweb-support-discord-bot)](https://github.com/warengonzaga/thirdweb-support-discord-bot/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=warengonzaga/thread-based-support-discord-bot)](https://github.com/warengonzaga/thread-based-support-discord-bot/graphs/contributors)
 
 ---
 
